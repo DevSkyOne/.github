@@ -1,10 +1,8 @@
 <br />
 <div align="center">
   <a href="https://discord.gg/desky">
-    <img src="https://cdn.discordapp.com/attachments/899676897120763914/930500237347401818/DevSkyTM_12.png" alt="Logo" width="200" height="200">
+    <img src="https://user-images.githubusercontent.com/28011628/200116208-6abe7233-9bd9-46c2-b7e1-2682c2681271.jpg" alt="Logo">
   </a>
-
-  <h3 align="center">DevSky Boilterplates</h3>
 
   <p align="center">
     Willkommen in der offiziellen DevSky GitHub Orga. Hier findest du alle unsere Open-Source Projekte.
