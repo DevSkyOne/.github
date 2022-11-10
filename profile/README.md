@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-  <a href="https://discord.gg/desky">
+  <a href="https://discord.gg/devsky">
     <img src="https://user-images.githubusercontent.com/28011628/200116208-6abe7233-9bd9-46c2-b7e1-2682c2681271.jpg" alt="Logo">
   </a>
 
@@ -11,7 +11,7 @@
     <br />
     <br />
     <a href="https://discord.gg/devsky">Main-Server</a>
-    ·
+    <strong>·</strong>
     <a href="https://devsky.one">Website</a>
   </p>
 </div>
